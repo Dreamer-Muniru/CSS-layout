@@ -1,0 +1,47 @@
+body {
+	background-color: white;
+}
+.flex-header {
+	display: flex;
+	background-color: lightblue;
+	height: 50px;
+	width: 90%;
+	margin: auto;
+}
+
+.banner-flex {
+	display: flex;
+	background-color: lightblue;
+	height: 150px;
+	width: 90%;
+	margin: auto;
+	margin-top: 13px;
+}
+
+.columns {
+	display: flex;
+	flex-direction: row;
+	width: 92%;
+	margin: auto;
+	margin-top: 15px;
+	height: 200px;
+
+}
+
+.col-1, .col-2, .col-3 {
+	background-color: lightblue;
+	
+	width: 90%;
+	margin: 10px;
+	margin-bottom: 20px;
+}
+
+.footer-flex {
+	display: flex;
+	background-color: lightblue;
+	height: 100px;
+	width: 90%;
+	margin: auto;
+
+
+}
